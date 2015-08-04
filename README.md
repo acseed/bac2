@@ -1,2 +1,2 @@
 # bac2
-##This is my first repositor
+##This is my first repository
